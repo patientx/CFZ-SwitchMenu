@@ -5,3 +5,4 @@ Demonstration :
 
 https://github.com/user-attachments/assets/2e9579f3-f90c-4fa7-966a-320792766eea
 
+to install simply go into custom_nodes folder in comfyui and `git clone https://github.com/patientx/CFZ-SwitchMenu` , next time you start comfyui the buttons will appear on old and new menus.
