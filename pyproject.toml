@@ -28,7 +28,7 @@ Documentation = "https://github.com/patientx/CFZ-SwitchMenu/wiki"
 "Bug Tracker" = "https://github.com/patientx/CFZ-SwitchMenu/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "patientx"
 DisplayName = "CFZ-SwitchMenu"
 Icon = ""
 includes = [] 
